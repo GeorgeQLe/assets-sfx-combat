@@ -1,0 +1,8 @@
+{
+  "name": "assets-sfx-combat",
+  "description": "Game combat sound effects (impacts, explosions, weapons, hits)",
+  "version": "0.1.0",
+  "category": "sfx",
+  "theme": "combat",
+  "assets": []
+}
